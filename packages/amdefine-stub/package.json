@@ -1,0 +1,7 @@
+{
+  "name": "@org/amdefine-stub",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@types/node": "^10.7.1"
+  }
+}

@@ -12,5 +12,7 @@
       "packages/*"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
 }

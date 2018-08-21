@@ -4,8 +4,5 @@
     "outFile": "dist.js",
     "rootDir": "src"
   },
-  "references": [
-    { "path": "../amdefine-stub", "prepend": true },
-    { "path": "../random", "prepend": true }
-  ]
+  "files": ["src/stub.ts"]
 }
